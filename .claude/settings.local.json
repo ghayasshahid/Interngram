@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"BrowserRouter\\\\|Routes\\\\|Route\" /Users/ghayasshahid/internship-portal/client/src/*.jsx)"
+    ]
+  }
+}
